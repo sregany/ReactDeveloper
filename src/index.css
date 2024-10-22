@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Puedes agregar estilos globales adicionales aquí */
+body {
+    @apply font-sans; /* Aplica la tipografía sans-serif globalmente */
+  }
+
+
+
+
+
